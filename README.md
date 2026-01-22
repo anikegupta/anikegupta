@@ -50,8 +50,8 @@ To secure a software development internship or entry-level role where I can appl
 ---
 
 ## 🤝 Connect With Me
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **GitHub:** https://github.com/anikegupta 
+- **LinkedIn:** https://linkedin.com/in/aniket-gupta-84a203305
 
 ⭐ *Check out my repositories to see my work and progress.*
 
